@@ -3,17 +3,16 @@
     <div class="flex max-w-[500px] flex-1 flex-col gap-8">
       <p class="flex text-sm uppercase dark:text-gray-300 text-gray-800">
         ✨
-        A Software for high growth startups
+        social proof
       </p>
 
       <div class="flex max-w-[400px] flex-col gap-4">
         <h1 class="text-4xl leading-[3rem] tracking-wide lg:text-5xl font-bold lg:leading-[4rem] lg:-tracking-wider dark:text-white text-black sm:text-5xl sm:leading-snug">
-          We make you look
-          <span class="my-1 inline-block border-b-8 dark:border-green-500 border-green-400 bg-green-200 px-4 font-bold text-black rounded-lg">different</span>
+          Core Value for Customer <span class="my-1 inline-block border-b-8 dark:border-green-500 border-green-400 bg-green-200 px-4 font-bold text-black rounded-lg">Punch</span>
         </h1>
         <p class="text-lg lg:text-base">
           Node.js® is a free, open-source, cross-platform JavaScript runtime environment
-          that lets developers create servers, web apps, command line tools and scripts.
+          that lets<br> developers create servers, web apps, <br>command line tools and scripts.
         </p>
       </div>
 
@@ -22,11 +21,11 @@
           <a
             href="/"
             class="py-2 w-full flex items-center justify-center rounded px-6 font-medium tracking-wide text-white dark:border dark:border-green-800/60 dark:bg-green-600/20 bg-green-700/80 hover:bg-green-800/80 hover:dark:bg-green-800/50 hover:dark:text-green-300 transition-colors whitespace-nowrap"
-          >Download Now</a>
+          >Docs</a>
           <a
             href="/"
             class="py-2 w-full lg:w-auto flex items-center justify-center rounded px-6 font-medium tracking-wide text-white dark:border dark:border-green-800/60 dark:bg-green-600/20 bg-green-700/80 hover:bg-green-800/80 hover:dark:bg-green-800/50 hover:dark:text-green-300 transition-colors whitespace-nowrap"
-          >Watch how it works</a>
+          >Get my copy</a>
         </div>
         <small class="text-center text-sm">Want new features sooner? Get <b class="text-lime-600">Your software <a href="#">v0.1</a></b><sup title="Downloads a Node.js installer for your current platform">1</sup> instead.</small>
       </div>

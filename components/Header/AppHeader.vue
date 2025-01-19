@@ -3,7 +3,16 @@
     <nav class="w-full bg-white dark:bg-gray-950 justify-between flex border-b border-gray-200 dark:border-gray-600/60 px-8 py-3.5 transition-colors">
       <div class="flex gap-10 items-center">
         <slot name="logo">
-          <span class="cursor-pointer font-bold text-xl tracking-tighter">✨</span>
+          <div class="size-8">
+          <NuxtImg
+            src="https://res.cloudinary.com/dpvsklksg/image/upload/v1683149739/Group_25dark_yrfac5.png"
+            class="size-full object-contain object-center"
+            loading="lazy"
+            alt="my-company-logo-description"
+            :placeholder="[50, 25, 75, 5]"
+            format="webp"
+          />
+        </div>
         </slot>
         <slot name="links">
           <MenuList
