@@ -22,7 +22,7 @@ export default defineNuxtConfig({
     "nuxt-og-image",
     "@nuxt/image",
     '@vueuse/motion/nuxt',
-    "@nuxt/icon"
+    "@nuxt/icon",
   ],
 
   eslint: {
@@ -59,4 +59,6 @@ export default defineNuxtConfig({
       }
     }
   },
+
+  compatibilityDate: "2025-01-19",
 })
